@@ -7,7 +7,6 @@ certifi==2023.11.17
 charset-normalizer==3.3.2
 crewai==0.1.32
 dataclasses-json==0.6.4
-decouple==0.0.7
 distro==1.9.0
 fastapi==0.109.0
 frozenlist==1.4.1
@@ -29,10 +28,12 @@ mypy-extensions==1.0.0
 numpy==1.26.3
 openai==1.10.0
 packaging==23.2
+pipdeptree==2.13.2
 praw==7.7.1
 prawcore==2.4.0
 pydantic==2.6.0
 pydantic_core==2.16.1
+python-decouple==3.8
 PyYAML==6.0.1
 regex==2023.12.25
 requests==2.31.0
